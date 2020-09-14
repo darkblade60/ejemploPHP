@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Juan Carlos",
+    "apellido": "Gomez Gomez",
+    "nacimientoAAAA": "1989",
+
+    "telefono": [
+      { "prefijo": "34", "numero": "607349588" },
+      { "prefijo": "34", "numero": "607343434" }
+    ]
+  },
+
+  {
+    "nombre": "Blanca",
+    "apellido": "Garvi Merino",
+    "nacimientoAAAA": "1988",
+
+    "telefono": [
+      { "prefijo": "34", "numero": "607353535" },
+      { "prefijo": "34", "numero": "607363636" }
+    ]
+  }
+]
